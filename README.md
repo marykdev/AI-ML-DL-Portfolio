@@ -46,23 +46,6 @@ Through these projects, I’ve developed and showcased the following skills:
 - **Model Evaluation**: Accuracy, precision, recall, F1, AUC, confusion matrix, etc.
 - **Deployment**: Basic deployment techniques for making models accessible in real-world applications.
 
-## Getting Started
-
-To try out any of these projects on your local machine, follow these steps:
-
-1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/marykdev/AI-ML-DL-Portfolio.git
-    ```
-   
-2. **Navigate to the Project Folder**
-    ```bash
-    cd AI-ML-DL-Portfolio/project_name
-    ```
-
-3. **Run the Notebook or Scripts**
-    You can explore each project’s Jupyter notebook (`notebooks/`) or execute scripts in the `src/` folder.
-
 ## Contact
 
 Feel free to connect with me if you have any questions or suggestions!
