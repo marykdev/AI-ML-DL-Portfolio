@@ -27,13 +27,6 @@ Here’s a brief overview of each project in this portfolio:
    - **Techniques**: Data cleaning, feature engineering, model tuning.
    - **Libraries**: Scikit-Learn, Pandas, Seaborn.
 
-> *Note: This is a sampling of some projects. More projects can be found within the repository folders.*
-
-## Project Structure
-
-Each project in this portfolio follows a similar structure for consistency and readability.
-
-
 ## Skills Demonstrated
 
 Through these projects, I’ve developed and showcased the following skills:
