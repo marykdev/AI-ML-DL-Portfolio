@@ -11,15 +11,11 @@ Here’s a brief overview of each project in this portfolio:
 1. **Loan Payment Analysis**
     A comparative analysis of machine learning vs. deep learning methods for predicting loan repayment probabilities.
 
-3. **Sentiment Analysis on Social Media Posts**
-   - **Description**: Text sentiment classification using natural language processing techniques to analyze social media posts.
-   - **Techniques**: NLP preprocessing, feature extraction, transformer models.
-   - **Libraries**: NLTK, Hugging Face Transformers, PyTorch.
+2. **Dental Segment Anything**
+    Utilizing Segment Anything for precise segmentation of dental radiology images, followed by classification to enhance diagnostic accuracy and treatment planning.
 
-4. **Image Classification with Convolutional Neural Networks**
-   - **Description**: Image classification pipeline using CNNs for multi-class object recognition.
-   - **Techniques**: Image augmentation, CNN architecture design, evaluation metrics.
-   - **Libraries**: TensorFlow, Keras, OpenCV.
+3. **Flights EDA**
+    Exploratory data analysis (EDA) on a flights dataset to uncover insights on flight delays, cancellations, and patterns in airline performance, facilitating data-driven decision-making.
 
 5. **Customer Churn Prediction**
    - **Description**: Predicting customer churn for a telecommunications company using classification models.
