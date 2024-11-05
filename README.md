@@ -17,10 +17,18 @@ Here’s a brief overview of each project in this portfolio:
 3. **Flights EDA**
     Exploratory data analysis (EDA) on a flights dataset to uncover insights on flight delays, cancellations, and patterns in airline performance, facilitating data-driven decision-making.
 
-5. **Customer Churn Prediction**
-   - **Description**: Predicting customer churn for a telecommunications company using classification models.
-   - **Techniques**: Data cleaning, feature engineering, model tuning.
-   - **Libraries**: Scikit-Learn, Pandas, Seaborn.
+4. **Bank ML**
+    It applies and evaluates various popular machine learning algorithms on a bank dataset for predictive analysis.
+
+5. **Marketing AB Test**
+    An exploratory data analysis and hypothesis testing project assessing the impact of ads on user conversion rates in an A/B marketing test.
+
+6. **Online Retail**
+    It applies unsupervised learning techniques, such as clustering, on an online retail dataset to analyze customer segmentation and purchasing patterns.
+
+7. **Stock Market Prediction**
+    This project uses LSTM neural networks to analyze historical stock data, aiming to predict future price movements by capturing temporal patterns in the data.
+   
 
 ## Skills Demonstrated
 
